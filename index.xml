@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STARLab | Peking University</title>
+    <link>https://pkustarlab.github.io/</link>
+    <description>Recent content on STARLab | Peking University</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Spatial-Temporal AI Research Lab, Peking University, 2025</copyright>
+    <lastBuildDate>Fri, 30 Jul 2021 16:37:31 +0200</lastBuildDate>
+    <atom:link href="https://pkustarlab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Efficient Rate Control Algorithm for Intra Frame Coding in AVS3</title>
+      <link>https://pkustarlab.github.io/publication/efficient-rate-control/</link>
+      <pubDate>Fri, 30 Jul 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/efficient-rate-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Efficient Channel Pruning Based on Architecture Alignment and Probability Model Bypassing</title>
+      <link>https://pkustarlab.github.io/publication/efficient-channel-pruning/</link>
+      <pubDate>Fri, 30 Jul 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/efficient-channel-pruning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Awards</title>
+      <link>https://pkustarlab.github.io/post/2021-07-26/</link>
+      <pubDate>Mon, 26 Jul 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-07-26/</guid>
+      <description>&lt;p&gt;Dr. Wei Gao has received ICME 2021 Multimedia Rising Star (Runner Up Award) for Outstanding Early-stage Career Achievements in the Area of 3D Immersive Media Research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space</title>
+      <link>https://pkustarlab.github.io/publication/two-branch-dnn/</link>
+      <pubDate>Mon, 26 Jul 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/two-branch-dnn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-07-25/</link>
+      <pubDate>Sun, 25 Jul 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-07-25/</guid>
+      <description>&lt;p&gt;A paper is  accepted to ACM Multimedia 2021. View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/information-growth-attention-network&#34;&gt;Information-Growth Attention Network for Image Super-Resolution&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-07-24/</link>
+      <pubDate>Sat, 24 Jul 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-07-24/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/layer-wise-geometry&#34;&gt;Layer-Wise Geometry Aggregation Framework for Lossless LiDAR Point Cloud Compression&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Layer-Wise Geometry Aggregation Framework for Lossless LiDAR Point Cloud Compression</title>
+      <link>https://pkustarlab.github.io/publication/layer-wise-geometry/</link>
+      <pubDate>Wed, 21 Jul 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/layer-wise-geometry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-07-05/</link>
+      <pubDate>Mon, 05 Jul 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-07-05/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Signal Processing Letters (SPL). View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/two-branch-dnn&#34;&gt;Two-Branch Deep Neural Network for Underwater Image Enhancement in HSV Color Space&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Information-Growth Attention Network for Image Super-Resolution</title>
+      <link>https://pkustarlab.github.io/publication/information-growth-attention-network/</link>
+      <pubDate>Mon, 05 Jul 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/information-growth-attention-network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Editorship</title>
+      <link>https://pkustarlab.github.io/post/2021-06-05/</link>
+      <pubDate>Sat, 05 Jun 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-06-05/</guid>
+      <description>&lt;p&gt;Dr. Wei Gao has been appointed as Associate Editor for Neural Processing Letters (NEPL, CCF recommended journal).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-05-15/</link>
+      <pubDate>Sat, 15 May 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-05-15/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/unified-information-fusion&#34;&gt;Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection</title>
+      <link>https://pkustarlab.github.io/publication/unified-information-fusion/</link>
+      <pubDate>Sat, 15 May 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/unified-information-fusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-05-13/</link>
+      <pubDate>Thu, 13 May 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-05-13/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Multimedia (TMM). View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/cross-modality-fusion&#34;&gt;Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross-modality Fusion and Progressive Integration Network for Saliency Prediction on Stereoscopic 3D Images</title>
+      <link>https://pkustarlab.github.io/publication/cross-modality-fusion/</link>
+      <pubDate>Thu, 13 May 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/cross-modality-fusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-05-06/</link>
+      <pubDate>Thu, 06 May 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-05-06/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE Transactions on Industrial Informatics (TII). View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/consistent-quality-oriented-rate-control&#34;&gt;Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-04-11/</link>
+      <pubDate>Sun, 11 Apr 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-04-11/</guid>
+      <description>&lt;p&gt;One paper has been accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2021. View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/deep-image-compression&#34;&gt;Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deep Image Compression with Latent Optimization and Piece-wise Quantization Approximation</title>
+      <link>https://pkustarlab.github.io/publication/deep-image-compression/</link>
+      <pubDate>Sun, 11 Apr 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/deep-image-compression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-03-29/</link>
+      <pubDate>Mon, 29 Mar 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-03-29/</guid>
+      <description>&lt;p&gt;One paper has been accepted to ACM Transactions on Multimedia Computing Communications and Applications (TOMM). View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/fast-view-synthesis&#34;&gt;A Fast View Synthesis Implementation Method for Light Field Applications&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Fast View Synthesis Implementation Method for Light Field Applications</title>
+      <link>https://pkustarlab.github.io/publication/fast-view-synthesis/</link>
+      <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/fast-view-synthesis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consistent Quality Oriented Rate Control in HEVC via Balancing Intra and Inter Frame Coding</title>
+      <link>https://pkustarlab.github.io/publication/consistent-quality-oriented-rate-control/</link>
+      <pubDate>Mon, 29 Mar 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/consistent-quality-oriented-rate-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-03-06/</link>
+      <pubDate>Sat, 06 Mar 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-03-06/</guid>
+      <description>&lt;p&gt;Two papers have been accepted to IEEE International Conference on Multimedia and Expo (ICME) 2021. View the detail:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pkustarlab.github.io/publication/dynamic-computational-resource-allocation/&#34;&gt;Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pkustarlab.github.io/publication/no-reference-deep-quality-assessment&#34;&gt;No-Reference Deep Quality Assessment of Compressed Light Field Images&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Dynamic Computational Resource Allocation for Fast Inter Frame Coding in Video Conferencing Applications</title>
+      <link>https://pkustarlab.github.io/publication/dynamic-computational-resource-allocation/</link>
+      <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/dynamic-computational-resource-allocation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No-Reference Deep Quality Assessment of Compressed Light Field Images</title>
+      <link>https://pkustarlab.github.io/publication/no-reference-deep-quality-assessment/</link>
+      <pubDate>Sat, 06 Mar 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/no-reference-deep-quality-assessment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A New Coding Unit Partitioning Mode for Screen Content Video Coding</title>
+      <link>https://pkustarlab.github.io/publication/new-coding-unit-partitioning/</link>
+      <pubDate>Fri, 26 Feb 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/new-coding-unit-partitioning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Call for Papers</title>
+      <link>https://pkustarlab.github.io/post/2021-02-15/</link>
+      <pubDate>Mon, 15 Feb 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-02-15/</guid>
+      <description>&lt;p&gt;We are organizing a workshop at ICME 2021 (First International Workshop on Quality of Experience in Interactive Multimedia, &lt;a href=&#34;https://2021.ieeeicme.org/conf_workshops)&#34;&gt;https://2021.ieeeicme.org/conf_workshops)&lt;/a&gt;. The submission deadline is March 13, 2021. Welcome to submit papers!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2021-01-30/</link>
+      <pubDate>Sat, 30 Jan 2021 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2021-01-30/</guid>
+      <description>&lt;p&gt;A paper authored by Zhanyuan Cai, Wei Gao, et.al. is  accepted to IEEE International Symposium on Circuits and Systems (ISCAS) 2021.&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/efficient-fast-algorithm/&#34;&gt;Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Efficient Fast Algorithm and Parallel Hardware Architecture for Intra Prediction of AVS3</title>
+      <link>https://pkustarlab.github.io/publication/efficient-fast-algorithm/</link>
+      <pubDate>Sat, 30 Jan 2021 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/efficient-fast-algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection</title>
+      <link>https://pkustarlab.github.io/publication/mmnet/</link>
+      <pubDate>Mon, 12 Oct 2020 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/mmnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team Building Activity</title>
+      <link>https://pkustarlab.github.io/post/2020-10-07/</link>
+      <pubDate>Wed, 07 Oct 2020 15:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2020-10-07/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://pkustarlab.github.io/img/nanshan_1.jpg&#34; alt=&#34;img1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pkustarlab.github.io/img/nanshan_2.jpg&#34; alt=&#34;img2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Fund</title>
+      <link>https://pkustarlab.github.io/post/2020-07-31/</link>
+      <pubDate>Fri, 31 Jul 2020 15:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2020-07-31/</guid>
+      <description>&lt;p&gt;View the detail: &lt;a href=&#34;https://ur.tencent.com/article/296&#34;&gt;https://ur.tencent.com/article/296&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2020-07-14/</link>
+      <pubDate>Tue, 14 Jul 2020 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2020-07-14/</guid>
+      <description>&lt;p&gt;A paper authored by Guibiao Liao, Wei Gao, et.al. is  accepted to ACM Multimedia 2020&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/mmnet/&#34;&gt;MMNet: Multi-Stage and Multi-Scale Fusion Network for RGB-D Salient Object Detection&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Research Activity</title>
+      <link>https://pkustarlab.github.io/post/2020-07-10/</link>
+      <pubDate>Fri, 10 Jul 2020 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2020-07-10/</guid>
+      <description>&lt;p&gt;Dr. Wei Gao has been appointed as Associate Editor for Electronics Letters (Internationally renowned peer-reviewed rapid-communication journal).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Research Activity</title>
+      <link>https://pkustarlab.github.io/post/2020-06-20/</link>
+      <pubDate>Sat, 20 Jun 2020 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2020-06-20/</guid>
+      <description>&lt;p&gt;Dr. Wei Gao has been appointed as Associate Editor for IET Image Processing (CCF recommended journal).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low-rate Image Compression with Super-Resolution Learning</title>
+      <link>https://pkustarlab.github.io/publication/low-rate-image-compression/</link>
+      <pubDate>Fri, 12 Jun 2020 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/low-rate-image-compression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper Acceptance</title>
+      <link>https://pkustarlab.github.io/post/2020-05-14/</link>
+      <pubDate>Thu, 14 May 2020 16:50:58 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/post/2020-05-14/</guid>
+      <description>&lt;p&gt;A paper authored by Wei Gao, Lvfang Tao, Linjie Zhou, Dinghao Yang, Xiaoyu Zhang and Zixuan Guo is  accepted to CVPR 2020 Workshops.&lt;/p&gt;&#xA;&lt;p&gt;View the detail: &lt;a href=&#34;https://pkustarlab.github.io/publication/low-rate-image-compression/&#34;&gt;Low-rate Image Compression with Super-Resolution Learning&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blind Image Quality Measurement by Exploiting High Order Statistics with Deep Dictionary Encoding Network</title>
+      <link>https://pkustarlab.github.io/publication/blind-image-quality-measurement/</link>
+      <pubDate>Sun, 12 Apr 2020 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/blind-image-quality-measurement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Multi-Objective Optimization Perspective for Joint Consideration of Video Coding Quality</title>
+      <link>https://pkustarlab.github.io/publication/multi-objective-optimization-perspective/</link>
+      <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/multi-objective-optimization-perspective/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Risk-Aware Pairwise Rank Learning Approach for Visual Discomfort Prediction of Stereoscopic 3D Images</title>
+      <link>https://pkustarlab.github.io/publication/risk-aware-airwise-rank-learning/</link>
+      <pubDate>Tue, 12 Nov 2019 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/risk-aware-airwise-rank-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSIM-Based Global Optimization for CTU-Level Rate Control in HEVC</title>
+      <link>https://pkustarlab.github.io/publication/ssim-based-global-optimization/</link>
+      <pubDate>Mon, 12 Aug 2019 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/ssim-based-global-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unified No-reference Quality Assessment of Singly and Multiply Distorted Stereoscopic Images</title>
+      <link>https://pkustarlab.github.io/publication/unified-no-reference-quality-assessment/</link>
+      <pubDate>Fri, 12 Apr 2019 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/unified-no-reference-quality-assessment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Driven Rate Control for Rate-Distortion Optimization in HEVC Based on Simplified Effective Initial QP Learning</title>
+      <link>https://pkustarlab.github.io/publication/data-driven-rate-control/</link>
+      <pubDate>Tue, 12 Mar 2019 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/data-driven-rate-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sparse Bayesian Learning Based Kernel Poisson Regression</title>
+      <link>https://pkustarlab.github.io/publication/sparse-bayesian-learning/</link>
+      <pubDate>Sat, 12 Jan 2019 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/sparse-bayesian-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nonnegative Matrix Factorization with Mixed Hypergraph Regularization for Community Detection</title>
+      <link>https://pkustarlab.github.io/publication/nonnegative-matrix-factorization/</link>
+      <pubDate>Thu, 12 Apr 2018 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/nonnegative-matrix-factorization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joint Machine Learning and Game Theory for Rate Control in High Efficiency Video Coding</title>
+      <link>https://pkustarlab.github.io/publication/joint-machine-learning/</link>
+      <pubDate>Tue, 12 Dec 2017 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/joint-machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generalized Relevance Vector Machine</title>
+      <link>https://pkustarlab.github.io/publication/generalized-relevance-vector-machine/</link>
+      <pubDate>Tue, 12 Sep 2017 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/generalized-relevance-vector-machine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Phase Congruency Based Patch Evaluator for Complexity Reduction in Multi-dictionary Based Single-image Superresolution</title>
+      <link>https://pkustarlab.github.io/publication/phase-congruency-based-patch-evaluator/</link>
+      <pubDate>Sat, 12 Nov 2016 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/phase-congruency-based-patch-evaluator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phase Congruency Based Edge Saliency Detection and Rate Control for Perceptual Image and Video Coding</title>
+      <link>https://pkustarlab.github.io/publication/phase-congruency-based-edge-saliency-detection/</link>
+      <pubDate>Wed, 12 Oct 2016 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/phase-congruency-based-edge-saliency-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bi-level Optimization of Block Compressive Sensing with Perceptually Nonlocal Similarity</title>
+      <link>https://pkustarlab.github.io/publication/bi-level-optimization/</link>
+      <pubDate>Mon, 12 Sep 2016 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/bi-level-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multiscale Phase Congruency Analysis for Image Edge Visual Saliency Detection</title>
+      <link>https://pkustarlab.github.io/publication/multiscale-phase-congruency-analysis/</link>
+      <pubDate>Tue, 12 Jul 2016 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/multiscale-phase-congruency-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bowen Qu, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/qubowen/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/qubowen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Changhao Peng, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/pengchanghao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/pengchanghao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chengwei Wang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/wangchengwei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/wangchengwei/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chenhao Zhang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/zhangchenhao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/zhangchenhao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dinghao Yang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/yangdinghao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/yangdinghao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fangyu Shen, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/shenfangyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/shenfangyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guibiao Liao, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/liaoguibiao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/liaoguibiao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hang Yuan, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/yuanhang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/yuanhang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haohui Li, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/lihaohui/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/lihaohui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haoruo Liu, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/liuhaoruo/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/liuhaoruo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Huiming Zheng, Phd Student</title>
+      <link>https://pkustarlab.github.io/member/zhenghuiming/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/zhenghuiming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jianing Chen, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/chenjianing/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/chenjianing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junhong Lin, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/linjunhong/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/linjunhong/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junlin Li, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/lijunlin/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/lijunlin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kaiyu Zheng, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/zhengkaiyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/zhengkaiyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kangli Wang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/wangkangli/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/wangkangli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liang Xie, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/sunshangkun/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/sunshangkun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Liang Xie, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/xieliang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/xieliang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linhui Wang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/chenguanzhou/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/chenguanzhou/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linhui Wang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/wanglinhui/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/wanglinhui/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linjie Zhou, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/zhoulinjie/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/zhoulinjie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lvfang Tao, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/taolvfang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/taolvfang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qianxi Yi, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/yiqianxi/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/yiqianxi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shihao Li, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/lishihao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/lishihao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shuqing Luo, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/luoshuqing/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/luoshuqing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Songlin Fan, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/fansonglin/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/fansonglin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wang Liu, Phd Student</title>
+      <link>https://pkustarlab.github.io/member/liuwang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/liuwang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wei Cheng, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/chengwei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/chengwei/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wei Gao, Assistant Professor</title>
+      <link>https://pkustarlab.github.io/member/gaowei/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/gaowei/</guid>
+      <description>&lt;p&gt;Wei GAO is an Assistant Professor/Ph.D. Supervisor at the School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, China (Since 2019). He is now leading the &lt;strong&gt;Spatial-Temporal AI Research Lab (STARLab)&lt;/strong&gt;. His research interests include &lt;strong&gt;3D Point Cloud Coding, Image and Video Coding, Quality Assessment and Enhancement, 3D Vision and Multimodal Learning, Multimedia and AI Applications&lt;/strong&gt;. He is a Senior Member of IEEE.&lt;/p&gt;&#xA;&lt;p&gt;Research: He has published over 170 research papers, applied over 100 patents, and submitted over 60 standard proposals. He authored two books published by Springer Nature, including “Deep Learning for 3D Point Clouds” and “Point Cloud Compression: Technologies and Standardization”. He is actively participating in the development of multimedia and artificial intelligence standards. He participated in the establishment of group standards for “Information Technology - High Efficiency Graphics Data Coding, Part 2: Point Clouds” and “Information Technology - High Efficiency Graphics Data Coding, Part 3: Subjective Quality Assessment Methods for Point Clouds”. He participated in the drafting of China&amp;rsquo;s AI series white paper on deep learning in 2023. He established several open source projects, including OpenPointCloud (Point Cloud Coding and Processing), OpenAICoding (Learning-based Image/Video Coding), OpenDatasets (Large-scale Datasets for Multimedia Computing and AI). As the first recipient, he won the Second Prize of the Natural Science Award of the China Society of Image and Graphics in 2024 (Theories and Methods for Multimodal Visual Perception with Restricted Environments, Ranked 1/2). He won the AVS Industrial Technology Innovation Team Award (For Contributions to Point Cloud Compression Standard) in 2023. He was a recipient of the IEEE Multimedia Rising Star Runner Up Award for Outstanding Early-stage Career Achievements in the Area of 3D Immersive Media Research in 2021. He won the China Computer Federation Excellent Open Source Graphics Software Award in 2022, and the China Computer Federation Tencent Rhino Bird Excellent Patent Award in 2021. He received 2 Outstanding Paper Awards from the Guangdong Computer Federation in 2019/2018, and 5 Outstanding Paper Awards from the Shenzhen Science and Technology Association in 2024/2023/2022. He has undertaken more than 20 government-funded and industry-funded research projects, including National Key R&amp;amp;D Program, National Natural Science Foundation, Guangdong Provincial Natural Science Foundation, Shenzhen City Natural Science Foundation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wenxu Gao, PhD Student</title>
+      <link>https://pkustarlab.github.io/member/gaowenxu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/gaowenxu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xiaoyu Liang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/liangxiaoyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/liangxiaoyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xiaoyu Zhang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/zhangxiaoyu/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/zhangxiaoyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xijing Lu, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/luxijing/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/luxijing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xingming Mou, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/mouxingming/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/mouxingming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yang Guo, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/guoyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/guoyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yang Wang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/wangyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/wangyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yangfan Sun, Visiting Student</title>
+      <link>https://pkustarlab.github.io/member/sunyangfan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/sunyangfan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yao Li, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/liyao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/liyao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuan Li, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/liyuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/liyuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuqi Ye, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/yeyuqi/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/yeyuqi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuyang Wu, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/wuyuyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/wuyuyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zetao Yang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/yangzetao/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/yangzetao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zhanyuan Cai, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/caizhanyuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/caizhanyuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zhiyang Qi, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/qizhiyang/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/qizhiyang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zhuozhen Yu, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/yuzhuozhen/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/yuzhuozhen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zijian Zhang, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/zhangzijian/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/zhangzijian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zixuan Guo, MPhil Student</title>
+      <link>https://pkustarlab.github.io/member/guozixuan/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/member/guozixuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSIM-Based Game Theory Approach for Rate-Distortion Optimized Intra Frame CTU-Level Bit Allocation</title>
+      <link>https://pkustarlab.github.io/publication/ssim-based-game-theory/</link>
+      <pubDate>Sun, 12 Jun 2016 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/ssim-based-game-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DCT Coefficient Distribution Modeling and Quality Dependency Analysis Based Frame-Level Bit Allocation for HEVC</title>
+      <link>https://pkustarlab.github.io/publication/dct-coefficient-distribution/</link>
+      <pubDate>Tue, 12 Jan 2016 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/dct-coefficient-distribution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rate Distortion Optimized Inter View Frame Level Bit Allocation Method for MV-HEVC</title>
+      <link>https://pkustarlab.github.io/publication/rate-distortion-optimized-inter-view/</link>
+      <pubDate>Sat, 12 Dec 2015 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/rate-distortion-optimized-inter-view/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smooth View Quality Oriented Bit Allocation Optimization for 3D Video Coding</title>
+      <link>https://pkustarlab.github.io/publication/smooth-view-quality-oriented/</link>
+      <pubDate>Mon, 12 Oct 2015 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/smooth-view-quality-oriented/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Complexity Reduction in Multi-dictionary Based Single-Image Superresolution Reconstruction via Phase Congruency</title>
+      <link>https://pkustarlab.github.io/publication/complexity-reduction-in-multi-dictionary/</link>
+      <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/complexity-reduction-in-multi-dictionary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phase Congruency Analysis of Down-sampled and Blurring Images for Foreground Extraction</title>
+      <link>https://pkustarlab.github.io/publication/phase-congruency-analysis/</link>
+      <pubDate>Sun, 12 Jul 2015 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/phase-congruency-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-cost Memory Data Scheduling Method for Reconfigurable FFT Bit-reversal Circuits</title>
+      <link>https://pkustarlab.github.io/publication/low-cost-memory/</link>
+      <pubDate>Thu, 12 Feb 2015 16:37:31 +0200</pubDate>
+      <guid>https://pkustarlab.github.io/publication/low-cost-memory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://pkustarlab.github.io/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/approach/</guid>
+      <description>&lt;h1 id=&#34;et-malis-vellet-tellus-deseruere-in-credant&#34;&gt;Et malis vellet tellus deseruere in credant&lt;/h1&gt;&#xA;&lt;h2 id=&#34;inde-sidera-moenia-lacertis-nomen-nostra-membra&#34;&gt;Inde sidera moenia lacertis nomen nostra membra&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio&#xA;Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae&#xA;nitentem avellere motis clipeus Achilles felix videam undas. &lt;em&gt;Posuit haec ipse&lt;/em&gt;&#xA;posse.&lt;/p&gt;&#xA;&lt;p&gt;Ore fame mons Olympi tantae &lt;em&gt;stringit&lt;/em&gt; columbas proxima habebat, longius alta&#xA;non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cristata causam Triones moenia habentem subito utentem&lt;/li&gt;&#xA;&lt;li&gt;Astraea castris contentus nisi leve eum invia&lt;/li&gt;&#xA;&lt;li&gt;Inferiusque capta cognoscenda flaventi locuta notavi fallere&lt;/li&gt;&#xA;&lt;li&gt;Moriens scripsi ictus tuo cum&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus&#xA;tanta tecti terras. Dextras superest flammis accipe volatu vulneris indomitae&#xA;unguibus insignia tempora aquas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://pkustarlab.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;about-starlab&#34;&gt;About STARLab&lt;/h1&gt;&#xA;&lt;p&gt;We are the &lt;strong&gt;Spatial-Temporal AI Research Lab (STARLab)&lt;/strong&gt;, from  &lt;a href=&#34;http://www.ece.pku.edu.cn/&#34;&gt;the School of Electronic and Computer Engineering&lt;/a&gt;, &lt;a href=&#34;http://www.pku.edu.cn/&#34;&gt;Peking University&lt;/a&gt;, Shenzhen, China.&lt;/p&gt;&#xA;&lt;p&gt;We are focusing on the &lt;strong&gt;multimedia/multimodal information processing theories, methods, and applications (especially immersive media communication and autonomous unmanned systems)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;multimedia-coding-and-processing&#34;&gt;Multimedia Coding and Processing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multimedia Coding (3D Point Cloud Coding, Image/Video Coding, Deep Learning-Based Coding, Human and Machine Perception-Driven Coding)&lt;/li&gt;&#xA;&lt;li&gt;Multimedia Quality Assessment and Enhancement&lt;/li&gt;&#xA;&lt;li&gt;3D Gaussian Splatting for Reconstruction/Compression/Rendering/Generation/Representation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3d-vision-applications&#34;&gt;3D Vision Applications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3D Vision and Multimodal Learning in Immersive Media (VR/AR) and Unmanned Systems (Autonomous Driving, Robotics, UAV Navigation)&lt;/li&gt;&#xA;&lt;li&gt;Applications of Generative AI, World Model, and Multimodal Large Model&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://pkustarlab.github.io/img/STARLabab-Lite.jpg&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codes</title>
+      <link>https://pkustarlab.github.io/codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/codes/</guid>
+      <description>&lt;h1 id=&#34;codes&#34;&gt;Codes&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coming soon&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datasets</title>
+      <link>https://pkustarlab.github.io/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/datasets/</guid>
+      <description>&lt;h1 id=&#34;datasets&#34;&gt;Datasets&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coming soon&amp;hellip;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>https://pkustarlab.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/gallery/</guid>
+      <description>&lt;h1 id=&#34;gallery&#34;&gt;Gallery&lt;/h1&gt;&#xA;&lt;div style=&#34;display: flex; flex-wrap: wrap; justify-content: space-around;&#34;&gt;&#xD;&#xA;        &lt;div style=&#34;width: 45%; margin: 10px; border: 1px solid #ccc; border-radius: 10px; overflow: hidden;&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/Gallery/2025.png&#34; alt=&#34;2025年合照&#34; style=&#34;width: 100%; display: block;&#34;&gt;&#xD;&#xA;            &lt;p style=&#34;text-align: center&#34;&gt;2025&lt;/p&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div style=&#34;width: 45%; margin: 10px; border: 1px solid #ccc; border-radius: 10px; overflow: hidden;&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/Gallery/2024.jpg&#34; alt=&#34;2024年合照&#34; style=&#34;width: 100%; display: block;&#34;&gt;&#xD;&#xA;            &lt;p style=&#34;text-align: center&#34;&gt;2024&lt;/p&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Join Us</title>
+      <link>https://pkustarlab.github.io/joinus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/joinus/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://gaowei262.github.io/Welcome-to-join-us.jpg&#34; alt=&#34;join-us&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://pkustarlab.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/news/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;&#xA;&lt;h2 id=&#34;recent&#34;&gt;Recent&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2025/04 &amp;ndash; One paper was accepted to IJCAI 2025!&lt;/li&gt;&#xA;&lt;li&gt;2025/04 &amp;ndash; One paper was accepted to IEEE TETCI!&lt;/li&gt;&#xA;&lt;li&gt;2025/02 &amp;ndash; We are organizing the &lt;a href=&#34;https://mm2025-app3dv-workshop.github.io/&#34;&gt;International Workshop on Application-driven Point Cloud Processing and 3D Vision (APP3DV)&lt;/a&gt; at ACM MM 2025. Submission deadline: 11 July, 2025. Welcome to submit papers!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;more-in-2024-and-before&#34;&gt;More in 2024 and Before&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024/12 &amp;ndash; Four papers were accepted to AAAI 2025!&lt;/li&gt;&#xA;&lt;li&gt;2024/11 &amp;ndash; One paper was accepted to IEEE TBC!&lt;/li&gt;&#xA;&lt;li&gt;2024/11 &amp;ndash; As the first recipient, we won the Second Prize of the Natural Science Award of the China Society of Image and Graphics in 2024 (Theories and Methods for Multimodal Visual Perception with Restricted Environments, Ranked 1/2)!&lt;/li&gt;&#xA;&lt;li&gt;2024/11 &amp;ndash; One paper was accepted to IEEE TIP!&lt;/li&gt;&#xA;&lt;li&gt;2024/11 &amp;ndash; One paper was accepted to IEEE JBHI!&lt;/li&gt;&#xA;&lt;li&gt;2024/10 &amp;ndash; One paper was accepted to IEEE TIM!&lt;/li&gt;&#xA;&lt;li&gt;2024/10 &amp;ndash; One paper was accepted to IEEE TNNLS!&lt;/li&gt;&#xA;&lt;li&gt;2024/09 &amp;ndash; Two papers were accepted to NeurIPS 2024!&lt;/li&gt;&#xA;&lt;li&gt;2024/07 &amp;ndash; Seven papers were accepted to ACM MM 2024!&lt;/li&gt;&#xA;&lt;li&gt;2024/07 &amp;ndash; One paper was accepted to ECCV 2024!&lt;/li&gt;&#xA;&lt;li&gt;2024/06 &amp;ndash; One paper was accepted to IEEE TGRS!&lt;/li&gt;&#xA;&lt;li&gt;2024/05 &amp;ndash; One paper was accepted to IEEE TCSVT!&lt;/li&gt;&#xA;&lt;li&gt;2024/04 &amp;ndash; One paper was accepted to IEEE TCSVT!&lt;/li&gt;&#xA;&lt;li&gt;2024/04 &amp;ndash; Our team was the third-place winner of &lt;a href=&#34;https://codalab.lisn.upsaclay.fr/competitions/17621#learn_the_details&#34;&gt;the Competition for NTIRE 2024 Quality Assessment for AI-Generated Content&lt;/a&gt; - Track 2 Video!&lt;/li&gt;&#xA;&lt;li&gt;2024/03 &amp;ndash; We won the AVS Industrial Technology Innovation Team Award (For Contributions to Point Cloud Compression Standard) in 2023!&lt;/li&gt;&#xA;&lt;li&gt;2024/03 &amp;ndash; Our Paper titled &amp;ldquo;Research Progress in 3D Point Cloud Compression Technologies and Standards&amp;rdquo; was published in &lt;a href=&#34;https://book.yunzhan365.com/azuuh/zodb/mobile/index.html&#34;&gt;Communications of China Society of Image and Graphics&lt;/a&gt;!&lt;/li&gt;&#xA;&lt;li&gt;2024/01 &amp;ndash; One paper was accepted to IEEE TCSVT!&lt;/li&gt;&#xA;&lt;li&gt;2024/01 &amp;ndash; One paper was accepted to IEEE TITS!&lt;/li&gt;&#xA;&lt;li&gt;2023/12 &amp;ndash; Three papers were accepted to AAAI 2024!&lt;/li&gt;&#xA;&lt;li&gt;2023/11 &amp;ndash; One paper was accepted to IJCV!&lt;/li&gt;&#xA;&lt;li&gt;2023/11 &amp;ndash; One paper was accepted to IEEE TIP!&lt;/li&gt;&#xA;&lt;li&gt;2023/09 &amp;ndash; We participated in the drafting of &lt;a href=&#34;https://caai.cn/index.php?s=/home/article/detail/id/3156.html&#34;&gt;China&amp;rsquo;s AI series white paper on deep learning&lt;/a&gt;!&lt;/li&gt;&#xA;&lt;li&gt;2023/09 &amp;ndash; One paper was accepted to IEEE TGRS!&lt;/li&gt;&#xA;&lt;li&gt;2023/09 &amp;ndash; One paper was accepted to IEEE TIM!&lt;/li&gt;&#xA;&lt;li&gt;2023/08 &amp;ndash; One paper was accepted to IEEE TIP!&lt;/li&gt;&#xA;&lt;li&gt;2023/07 &amp;ndash; Five papers were accepted to ACM MM 2023!&lt;/li&gt;&#xA;&lt;li&gt;2022/07 &amp;ndash; One paper was recognized as Popular Documents (the 50 most frequently accessed documents - July 2022) in IEEE TPAMI!&lt;/li&gt;&#xA;&lt;li&gt;2023/07 &amp;ndash; One paper was accepted to ICCV 2023!&lt;/li&gt;&#xA;&lt;li&gt;2023/05 &amp;ndash; One paper was accepted to IEEE TCSVT!&lt;/li&gt;&#xA;&lt;li&gt;2023/04 &amp;ndash; One paper was accepted to IEEE TNNLS!&lt;/li&gt;&#xA;&lt;li&gt;2023/04 &amp;ndash; One paper was accepted to IEEE MultiMedia!&lt;/li&gt;&#xA;&lt;li&gt;2023/02 &amp;ndash; One paper was accepted to CVPR 2023!&lt;/li&gt;&#xA;&lt;li&gt;2023/01 &amp;ndash; We are organizing the International Workshop on &lt;a href=&#34;https://icme2023-pcpi2m-workshop.github.io/&#34;&gt;Perception-inspired Communication and Processing for Immersive and Interactive Multimedia (PCPI2M) &lt;/a&gt;&lt;/a&gt; at IEEE ICME 2023. Submission deadline: March 23, 2023. Welcome to submit papers!&lt;/li&gt;&#xA;&lt;li&gt;2023/01 &amp;ndash; Two papers were accepted to IEEE TCSVT!&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Patents &amp; Standardizations</title>
+      <link>https://pkustarlab.github.io/patent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/patent/</guid>
+      <description>&lt;h1 id=&#34;patents--standardizations&#34;&gt;Patents &amp;amp; Standardizations&lt;/h1&gt;&#xA;&lt;p&gt;&#xD;&#xA;    We have filed more than 100 PCT International/US/China patents in the fields of multimedia computing and AI, and have submitted more than 60 standard proposals. &#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;strong&gt;&lt;font style=&#34;font-size: 12pt;&#34; face=&#34;Arial&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://gaowei262.github.io/patents-en.html&#34; target=&#34;_blank&#34;&gt;Link (EN)&lt;/a&gt; &lt;br&gt;&#xD;&#xA;    &lt;a href=&#34;https://gaowei262.github.io/patents-cn.html&#34; target=&#34;_blank&#34;&gt;Link (CN)&lt;/a&gt;&#xD;&#xA;&lt;/strong&gt;</description>
+    </item>
+    <item>
+      <title>People</title>
+      <link>https://pkustarlab.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/people/</guid>
+      <description>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;&#xA;&lt;!-- Faculty --&gt;&#xD;&#xA;&lt;table&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;Faculty&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;!-- 路径以public目录下为准 --&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/gaowei.jpg&#34; alt=&#34;Gaowei&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;&lt;a href=&#34;https://gaowei262.github.io/&#34;&gt;Wei Gao (高伟)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;Assistant Professor, Ph.D. Supervisor&lt;br&gt; (助理教授/研究员/博士生导师), Peking University&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;!-- PostDoc Fellows --&gt;&#xD;&#xA;&lt;table&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;PostDoc Fellows&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;!-- 路径以public目录下为准 --&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/wangshunzhou.jpg&#34; alt=&#34;WangShunzhou&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/sujingxuan.jpg&#34; alt=&#34;SuJingxuan&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;Shunzhou Wang (汪顺舟)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;Jingxuan Su (苏靖萱)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;Low-level Vision&lt;/th&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;3DGS and Quality Assessment&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;!-- PhD--&gt;&#xD;&#xA;&lt;table&gt;&#xD;&#xA;    &lt;!-- 表头 --&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;PhD Students&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/liuwang.jpg&#34; alt=&#34;LiuWang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/zhenghuiming.jpg&#34; alt=&#34;ZhengHuiming&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/xieliang.jpg&#34; alt=&#34;XieLiang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/wenxugao.jpg&#34; alt=&#34;GaoWenxu&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Wang Liu (刘旺)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Huiming Zheng (郑慧明)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Liang Xie (谢良)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Wenxu Gao (高文旭)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;3D Point Cloud Enhancement&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based Image/Video/3D Point Cloud Coding&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based 3D Point Cloud Coding&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based 3D Point Cloud Coding and Quality Assessment&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/sunshangkun.jpg&#34; alt=&#34;SunShangkun&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;           &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/junhonglin.jpg&#34; alt=&#34;LinJunhong&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yiqianxi.jpg&#34; alt=&#34;YiQianxi&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/chengwei.jpg&#34; alt=&#34;ChengWei&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Shangkun Sun (孙上焜)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Junhong Lin (林俊鸿)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Qianxi Yi (易千喜)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Wei Cheng (程伟)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Multi-Modal Learning and Quality Assessment&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Autonomous Driving&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based Image/Video Coding&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;3D Gaussian Splatting Compression&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;!-- Mphil --&gt;&#xD;&#xA;&lt;table&gt;&#xD;&#xA;    &lt;!-- 表头 --&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;MPhil Students&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yuzhuozhen.jpg&#34; alt=&#34;YuZhuozhen&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/mouxingming.jpg&#34; alt=&#34;MouXingming&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/qubowen.jpg&#34; alt=&#34;QuBowen&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/liyuan.jpg&#34; alt=&#34;Liyuan&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Zhuozhen Yu (余卓臻)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Xingming Mou (牟星名)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Bowen Qu (瞿博文)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Yuan Li (栗源)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based 3D Point Cloud Coding&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Image/Video Coding and 3D&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Multimedia Quality Assessment&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based Image/Video Coding&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/lihaohui.jpg&#34; alt=&#34;LiHaohui&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;           &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/chenhaozhang.jpg&#34; alt=&#34;ZhangChenhao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/luoshuqing.jpg&#34; alt=&#34;LuoShuqing&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/liuhaoruo.jpg&#34; alt=&#34;LiuHaoruo&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Haohui Li (李浩辉)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Chenhao Zhang (张晨昊)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Shuqing Luo (罗书卿)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Haoruo Liu (刘浩若)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Multimedia Quality Assessment&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based Image/Video/3D Point Cloud Coding&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Multimodal Large Model&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based 3D Point Cloud Coding&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/kaiyuzheng.jpg&#34; alt=&#34;ZhengKaiyu&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yaoli.jpg&#34; alt=&#34;LiYao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/liangxiaoyu.jpg&#34; alt=&#34;LiangXiaoyu&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yeyuqi.png&#34; alt=&#34;YeYuqi&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Kaiyu Zheng (郑凯予)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Yao Li (李要)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Xiaoyu Liang (梁小雨)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Yuqi Ye (叶毓祺)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;AI-based 3D Point Cloud Coding&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Model Compression and Acceleration&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Multimedia Quality Assessment and Autonomous Driving&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Multimodal Large Model and Autonomous Driving&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/kangliwang.jpg&#34; alt=&#34;WangKangli&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/changhaopeng.jpg&#34; alt=&#34;PengChanghao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/shihaoli.jpg&#34; alt=&#34;LiShihao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/chengweiwang.jpg&#34; alt=&#34;WangChengwei&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Kangli Wang (王康立)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Changhao Peng (彭昌浩)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Shihao Li (李世豪)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Chengwei Wang (王诚威)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;3D Gaussian Splatting Compression&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Image/Video Coding and 3D&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;3D Gaussian Splatting Compression&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;3D Gaussian Splatting Compression&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/zijianzhang.jpg&#34; alt=&#34;ZhangZijian&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/wanglinhui.jpg&#34; alt=&#34;WangLinhui&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/junlinli.jpg&#34; alt=&#34;LiJunlin&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/chenguanzhou.jpg&#34; alt=&#34;ChenGuanzhou&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Zijian Zhang (张梓坚)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Linhui Wang (汪林辉)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Chunlam Li (黎俊林)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Guanzhou Chen (陈冠洲)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Autonomous Driving&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Autonomous Driving&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Autonomous Driving&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;Autonomous Driving&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;&lt;/table&gt;&#xD;&#xA;&lt;table&gt;&#xD;&#xA;    &lt;!-- Alunmi --&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;4&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;Alumni&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yaozhaojian.jpg&#34; alt=&#34;YaoZhaojian&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yuanhang.jpg&#34; alt=&#34;YuanHang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/fansonglin.jpg&#34; alt=&#34;FanSonglin&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/caizhanyuan.jpg&#34; alt=&#34;CaiZhanyuan&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Zhaojian Yao (姚钊健)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Hang Yuan (袁航)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Songlin Fan (范松林)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Zhanyuan Cai (蔡占元)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;PostDoc 2022-2024&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;PhD 2019-2024&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;PhD 2019-2024&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/chenjianing.jpg&#34; alt=&#34;ChenJianing&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/taolvfang.jpg&#34; alt=&#34;TaoLvfang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/shenfangyu.jpg&#34; alt=&#34;ShenFangyu&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/zhangxiaoyu.jpg&#34; alt=&#34;ZhangXiaoyu&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Jianing Chen (陈家宁)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Lvfang Tao (陶履方)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Fangyu Shen (沈芳羽)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Xiaoyu Zhang (张晓玉)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/zhoulinjie.jpg&#34; alt=&#34;ZhouLinjie&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/guozixuan.jpg&#34; alt=&#34;GuoZixuan&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yangdinghao.jpg&#34; alt=&#34;YangDinghao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/guoyang.jpg&#34; alt=&#34;GuoYang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Linjie Zhou (周琳洁)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Zixuan Guo (郭子轩)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Dinghao Yang (杨丁豪)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Yang Guo (郭洋)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2019-2022&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2020-2023&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2020-2023&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/liaoguibiao.jpg&#34; alt=&#34;LiaoGuibiao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/wuyuyang.png&#34; alt=&#34;WuYuyang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/wangyang.jpg&#34; alt=&#34;WangYang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/qizhiyang.jpg&#34; alt=&#34;QiZhiyang&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Guibiao Liao (廖桂标)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Yuyang Wu (伍宇阳)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Yang Wang (王洋)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;&lt;h3 style=&#34;font-size:22px&#34;&gt;Zhiyang Qi (祁志洋)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2020-2023&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2020-2023&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2021-2024&lt;/th&gt;&#xD;&#xA;        &lt;th style=&#34;text-align: center&#34;&gt;MPhil 2021-2024&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/luxijing.jpg&#34; alt=&#34;LuXijing&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&#xD;&#xA;            &lt;img src=&#34;https://pkustarlab.github.io/img/portraits/tiny/yangzetao.jpg&#34; alt=&#34;YangZetao&#34; style=&#34;width: 200px; height: 200px; display: block; margin: 0 auto; object-fit: contain;&#34;&gt;&#xD;&#xA;        &lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;Xijing Lu (卢西婧)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;&lt;h3&gt;Zetao Yang (杨泽涛)&lt;/h3&gt;&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;    &lt;tr&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;MPhil 2021-2024&lt;/th&gt;&#xD;&#xA;        &lt;th colspan=&#34;2&#34; style=&#34;text-align: center&#34;&gt;MPhil 2021-2024&lt;/th&gt;&#xD;&#xA;    &lt;/tr&gt;&#xD;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://pkustarlab.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/publications/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;div style=&#34;display: flex; align-items: center;&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://scholar.google.com/citations?user=KdXy-kgAAAAJ&amp;hl=zh-TW&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://pkustarlab.github.io/img/GoogleScholar.gif&#34; style=&#34;width: 200px; height: 200px; object-fit: contain; margin-right: 30px&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;a href=&#34;https://dblp.org/pid/28/2073-3.html&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://pkustarlab.github.io/img/DBLP.jpg&#34; style=&#34;width: 200px; height: 200px; object-fit: contain; margin-right: 10px;&#34;&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://gaowei262.github.io/pubs-sel.html&#34;&gt;Selected Publications (2022-Now)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gaowei262.github.io/pubs-full.html&#34;&gt;Full Publications&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research projects</title>
+      <link>https://pkustarlab.github.io/researchprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/researchprojects/</guid>
+      <description>&lt;h1 id=&#34;research-projects&#34;&gt;Research Projects&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1-multimedia-coding-and-processing&#34;&gt;1. Multimedia Coding and Processing&lt;/h2&gt;&#xA;&lt;p&gt;The research work includes 3D point cloud coding, image/video coding, multimodal coding, quality enhancement, and the related standardization efforts. We mainly focus on advanced deep learning solutions for coding optimization, and devise various methods to obtain better rate-distortion performance with flexibility and scalability. We have recently published high quality papers on IEEE TIP, IEEE TCSVT, IEEE TMM, IEEE TGRS, ACM MM, CVPR, AAAI, DCC, etc., and participated into the standardization work of MPEG and AVS. The monograph titled “Point Cloud Compression: Technologies and Standardization” has been published by Springer Nature in 2024, and another monograph titled “AI-based Image and Video Coding: Methods, Standards, and Applications” will appear soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://pkustarlab.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/resources/</guid>
+      <description>&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Open source project on &lt;a href=&#34;https://openi.pcl.ac.cn/OpenSTARLab&#34;&gt;Openl&lt;/a&gt; platform:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenPointCloud&#34;&gt;OpenPointCloud&lt;/a&gt; (Open Source Project for Point Cloud Coding and Processing)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenAICoding&#34;&gt;OpenAICoding&lt;/a&gt; (Open Source Project for Learning-based Image/Video Coding)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenDatasets&#34;&gt;OpenDatasets&lt;/a&gt; (Large-scale Datasets for Multimedia Computing and AI)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenHardwareVC&#34;&gt;OpenHardwareVC&lt;/a&gt; (Open Source Project for AVS3 8K Encoding Hardware)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenCompression&#34;&gt;OpenCompression&lt;/a&gt; (Open Source Project for Visual Media Compression Optimization)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://git.openi.org.cn/OpenVision&#34;&gt;OpenVision&lt;/a&gt; (Open Source Project for Computer Vision)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://openi.pcl.ac.cn/OpenAIDriving&#34;&gt;OpenAIDriving&lt;/a&gt; (Open Sources Project for AI-based Autonomous Driving)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Standardizations</title>
+      <link>https://pkustarlab.github.io/standardization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pkustarlab.github.io/standardization/</guid>
+      <description>&lt;h1 id=&#34;standardizations&#34;&gt;Standardizations&lt;/h1&gt;&#xA;&lt;p&gt;We have submitted more than 60 standard proposals.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technology-standardization-proposals&#34;&gt;Technology Standardization Proposals&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Chuang Ma, Qi Zhang, Yueru Chen, Yiting Shao, Jing Wang, Wei Gao, and Ge Li, &lt;strong&gt;“CE10: A New Entropy Coding Method for Point Cloud Color Attributes,”&lt;/strong&gt; AVS M6394, the 77th meeting of AVS working group, Haihua Island, Hainan China, June 17 to 19, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Zhanyuan Cai, Fangyu Shen, Wei Gao, and Junle Wang, &lt;strong&gt;“A Rate Control Method for All-Intra Coding in AVS3,”&lt;/strong&gt; AVS M6202, the 76th meeting of AVS working group, Online Conference, March 15 to 19, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Hang Yuan, and Wei Gao, &lt;strong&gt;“Inter Coding Optimization and Fast Algorithm Based on Texture Difference Evaluation,”&lt;/strong&gt; AVS M5684, the 74th meeting of AVS working group, Online Conference, August 24 to 28, 2020.&lt;/li&gt;&#xA;&lt;li&gt;Hang Yuan, and Wei Gao, &lt;strong&gt;“Texture Difference Evaluation Based Fast Algorithm for Inter Coding,”&lt;/strong&gt; AVS M5314, the 73th meeting of AVS working group, Online Conference, June 8 to 12, 2020.&lt;/li&gt;&#xA;&lt;li&gt;Wei Gao, Hang Yuan, and Yabin Zhang &lt;strong&gt;“Extended H-shape Coding Unit Partition for Screen Content Video Coding,”&lt;/strong&gt; AVS M5052, the 71th meeting of AVS working group, Shenzhen China, December 4 to 7, 2019.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;group-standards&#34;&gt;Group Standards:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;China Standard - Information Technologies - High Efficiency Graphics Data Coding, Part 2: Point Clouds, December 3, 2021.&lt;/li&gt;&#xA;&lt;li&gt;China Standard - Information Technologies - High Efficiency Graphics Data Coding, Part 3: Subjective Quality Assessment Methods for Point Clouds, September 1, 2023.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;mpeg-standardization-proposals&#34;&gt;MPEG Standardization Proposals:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Uniform square partition bugfix for padding, ISO/IEC JTC1/SC29/WG07 MPEG, m65930, Online, January 22 to 26, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Variable-rate Point Cloud Geometry Compression, ISO/IEC JTC1/SC29/WG07 MPEG, m66440, Online, January 22 to 26, 2024.&lt;/li&gt;&#xA;&lt;li&gt;End-to-end Point Cloud Compression with 3D Checkerboard Efficient Entropy Model, ISO/IEC JTC1/SC29/WG07 MPEG, m66442, Online, January 22 to 26, 2024.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;avs-standardization-proposals&#34;&gt;AVS Standardization Proposals:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Call-for-Evidence for AVS Deep Learning-based Point Cloud Compression, M8491, The 89th meeting of AVS working group, Weihai China, August 21 to 24, 2024 (November 28).&lt;/li&gt;&#xA;&lt;li&gt;Call-for-Evidence for AVS Deep Learning-based Point Cloud Inter-Frame Compression, M8595, The 89th meeting of AVS working group, Weihai China, August 21 to 24, 2024 (November 28).&lt;/li&gt;&#xA;&lt;li&gt;Lossless Point Cloud Compression Based on Dual Quad-Cross Occupancy Code, M8481, The 89th meeting of AVS working group, Weihai China, August 21 to 24, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Recommendation of Reference Software for Deep Learning-based Point Cloud Compression, M8482, The 89th meeting of AVS working group, Weihai China, August 21 to 24, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Rate Control V2 in AVS-PCC-PCRM, M8455, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024 (July 10).&lt;/li&gt;&#xA;&lt;li&gt;Rate Control in AVS-PCC-PCRM, M8455, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024 (July 10).&lt;/li&gt;&#xA;&lt;li&gt;Supplement for Recommendations V3 on Common Test Conditions for AVS Deep Learning-based Point Cloud Compression, M8449, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024 (July 10).&lt;/li&gt;&#xA;&lt;li&gt;Recommendations V3 on Common Test Conditions for AVS Deep Learning-based Point Cloud Compression, M8448, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024 (July 10).&lt;/li&gt;&#xA;&lt;li&gt;Rate Control for Attribute Coding in AVS-PCC-PCRM, M8348, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Point Cloud Geometry Compression Method Based on Region Decoupling, M8338, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Recommendations V2 on Common Test Conditions for AVS Deep Learning-based Point Cloud Compression, M8323, The 89th meeting of AVS working group, Shaoxing China, June 12 to 15, 2024.&lt;/li&gt;&#xA;&lt;li&gt;A Variable Rate Point Cloud Compression Algorithm, M8209, The 88th meeting of AVS working group, Shenzhen China, March 20 to 23, 2024.&lt;/li&gt;&#xA;&lt;li&gt;3D Checkerboard Model on End-to-end Point Cloud Compression Feature Stream, M8217, The 88th meeting of AVS working group, Shenzhen China, March 20 to 23, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Recommendations on Common Test Conditions for AVS Deep Learning-based Point Cloud Compression, M8233, The 88th meeting of AVS working group, Shenzhen China, March 20 to 23, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Demand Proposal for Deep Learning-based Point Cloud Compression Technology V3, M8118, The 87th meeting of AVS working group, Chengdu China, December 13 to 16, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Test Analysis for Deep Learning-based Point Cloud Compression Technology V2, M8108, The 87th meeting of AVS working group, Chengdu China, December 13 to 16, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Rate Control Implementation Scheme for LiDAR Point Cloud Sequences in AVS-PCC-PCRM, M7893, The 86th meeting of AVS working group, Lichuan China, August 21 to 27, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Joint Crosscheck Proposal V2 for VR-based Point Cloud Quality Assessment, M7894, The 86th meeting of AVS working group, Lichuan China, August 21 to 27, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Demand Proposal V2 for Deep Learning-based End-to-End Point Cloud Compression Technology, M7932, The 86th meeting of AVS working group, Lichuan China, August 21 to 27, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Test Analysis for Demand of Deep Learning-based End-to-End Point Cloud Compression Technology, M7933, The 86th meeting of AVS working group, Lichuan China, August 21 to 27, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Dynamic Point Cloud Compression Performance Analysis and Suggestion of Newly-added Dynamic Point Clouds, M7786, The 85th meeting of AVS working group, Changsha China, June 1 to 3, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for M7800, M7812, The 85th meeting of AVS working group, Changsha China, June 1 to 3, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Scoring Stage Optimization for Point Cloud Quality Assessment Reference Software, M7781, The 85th meeting of AVS working group, Changsha China, June 1 to 3, 2023.&lt;/li&gt;&#xA;&lt;li&gt;VR Interactive Method for Point Cloud Quality Assessment, M7782, The 85th meeting of AVS working group, Changsha China, June 1 to 3, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Demand Proposal for Deep Learning-based End-to-End Point Cloud Compression Technology, M7820, The 85th meeting of AVS working group, Changsha China, June 1 to 3, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Joint Crosscheck for VR-based Point Cloud Quality Assessment, M7823, The 85th meeting of AVS working group, Changsha China, June 1 to 3, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Multi-scene Data for Dynamic Point Cloud Compression, M7707, The 84th meeting of AVS working group, Ningbo China, March 16 to 18, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for M7676, M7703, The 84th meeting of AVS working group, Ningbo China, March 16 to 18, 2023.&lt;/li&gt;&#xA;&lt;li&gt;AVS-PCC-PCRM Bugfix, M7653, The 84th meeting of AVS working group, Ningbo China, March 16 to 18, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Interactive Point Cloud Quality Assessment Method with Simultaneous Double Stimulus, M7666, The 84th meeting of AVS working group, Ningbo China, March 16 to 18, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Rate Control Method for Geometry in AVS-PCC-PCRM, M7748, The 84th meeting of AVS working group, Ningbo China, March 16 to 18, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Optimization for Residual Coding Based on Geometry Prediction Tree, M7514, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Optimization Algorithm for Transform and Threshold Prediction, M7523, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;AVS-PCC-PCRM Bug Fixed, M7524, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Optimization Algorithm for Angular-based Color Attribute Prediction, M7525, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Results of Subjective Experiments for AVS PCQA Dataset, M7536, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Point Cloud Subjective Quality Assessment Based on Multi-function Free-viewpoint, M7539, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;An Optimization Method for Attribute Coding, M7541, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for M7528, M7605, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for M7529, M7531, The 83th meeting of AVS working group, Online Conference, December 12 to 16, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Improvement of Dense Estimation for Lossless Compression of Point Cloud Geometry, M7369, The 82th meeting of AVS working group, Online Conference, August 22 to 26, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Improvements and Experiments for Subjective Quality Assessment Method of Point Clouds Under 2D Display Environment, M6985, The 81th meeting of AVS working group, Online Conference, June 20 to 24, 2022.&lt;/li&gt;&#xA;&lt;li&gt;CE10: Entropy Coding for Color Attributes, M6971, The 80th meeting of AVS working group, Online Conference, March 17 to 19, 2022.&lt;/li&gt;&#xA;&lt;li&gt;Subjective Quality Assessment Method of Point Clouds Based on 6DoF 2D Display, M6985, The 80th meeting of AVS working group, Online Conference, March 17 to 19, 2022.&lt;/li&gt;&#xA;&lt;li&gt;CE10: Entropy Coding for Color Attributes, M6737, The 79th meeting of AVS working group, Online Conference, December 6 to 10, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for CE2 M6754, M6763, The 79th meeting of AVS working group, Online Conference, December 6 to 10, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Complexity Analysis of Prediction Algorithm in MPEG G-PCC and AVS PCRM, M6685, The 78th meeting of AVS working group, Online Conference, Nov. 3 to 5, 2021.&lt;/li&gt;&#xA;&lt;li&gt;A New Transform Coefficient Based Attribute Entropy Codec, M6584, The 78th meeting of AVS working group, Online Conference, August 26 to 28, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Point Cloud Attribute Entropy Coding Based on Adaptive Context Model, M6583, The 78th meeting of AVS working group, Online Conference, August 26 to 28, 2021.&lt;/li&gt;&#xA;&lt;li&gt;CE10: A New Entropy Coding Method for Point Cloud Color Attributes, M6394, The 77th meeting of AVS working group, Haihua Island, Hainan China, June 17 to 19, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for M6486, M6490, The 77th meeting of AVS working group, Haihua Island, Hainan China, June 17 to 19, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Crosscheck for M6436, M6489, The 77th meeting of AVS working group, Haihua Island, Hainan China, June 17 to 19, 2021.&lt;/li&gt;&#xA;&lt;li&gt;A Rate Control Method for All-Intra Coding in AVS3, M6202, The 76th meeting of AVS working group, Online Conference, March 15 to 19, 2021.&lt;/li&gt;&#xA;&lt;li&gt;Inter Coding Optimization and Fast Algorithm Based on Texture Difference Evaluation, M5684, The 74th meeting of AVS working group, Online Conference, August 24 to 28, 2020.&lt;/li&gt;&#xA;&lt;li&gt;Texture Difference Evaluation Based Fast Algorithm for Inter Coding, M5314, The 73th meeting of AVS working group, Online Conference, June 8 to 12, 2020.&lt;/li&gt;&#xA;&lt;li&gt;Extended H-shape Coding Unit Partition for Screen Content Video Coding, M5052, The 71th meeting of AVS working group, Shenzhen China, December 4 to 7, 2019.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
